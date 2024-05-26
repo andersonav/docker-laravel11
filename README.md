@@ -4,7 +4,7 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone -b laravel-11-with-php-8.3 https://github.com/andersonav/docker-laravel11.git docker-laravel11
+git clone https://github.com/andersonav/docker-laravel11.git docker-laravel11
 ```
 ```sh
 cd docker-laravel11
